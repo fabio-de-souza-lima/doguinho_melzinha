@@ -85,12 +85,8 @@ $ cd projeto-doguinho
 ```
 
 
-## :memo: License ##
 
 
-This project is under the [MIT license](./LICENSE).
-
-Made with love by [Fabio de Souza](https://github.com/fabio-de-souza-lima) 🚀.
 
 
 
