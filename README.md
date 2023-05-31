@@ -91,10 +91,6 @@ $ cd projeto-doguinho
 
 
 
-<p align="center">
-   <img src="https://media.giphy.com/media/a9PSJAm4wV6WICFKtb/giphy.gif" alt="Burguer" width="250"/>
-</p>
 
-&#xa0;
 
 <a href="#top">Back to top </a>
